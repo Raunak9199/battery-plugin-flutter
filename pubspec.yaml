@@ -39,7 +39,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.nexusbihar.battery_plugin
+        package: com.nexusbihar.nexus_battery_flutter
         pluginClass: BatteryPlugin
       ios:
         pluginClass: BatteryPlugin

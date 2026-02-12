@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:battery_plugin/battery_plugin.dart';
+import 'package:nexus_battery_flutter/battery_plugin.dart';
 
 void main() {
   runApp(const MyApp());
