@@ -1,4 +1,4 @@
-name: battery_plugin
+name: nexus_battery_flutter
 description: A Flutter plugin to get battery level on Android and iOS using platform channels.
 version: 0.0.1
 homepage: https://github.com/Raunak9199/battery-plugin-flutter
