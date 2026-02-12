@@ -1,6 +1,6 @@
 # battery_plugin
 
-A new Flutter plugin project.
+A Flutter plugin to get battery level on Android and iOS.
 
 ## Getting Started
 
@@ -13,3 +13,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Installation
+
+```yaml
+dependencies:
+  battery_plugin: ^0.0.1
+```

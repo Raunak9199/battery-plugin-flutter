@@ -1,11 +1,15 @@
 name: battery_plugin
-description: "A new Flutter plugin project."
+description: A Flutter plugin to get battery level on Android and iOS using platform channels.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Raunak9199/battery-plugin-flutter
+repository: https://github.com/Raunak9199/battery-plugin-flutter
+issue_tracker: https://github.com/Raunak9199/battery-plugin-flutter/issues
+
+license: MIT
 
 environment:
   sdk: ^3.10.8
-  flutter: '>=3.3.0'
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
